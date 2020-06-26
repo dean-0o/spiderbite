@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>art on Spiderbite</title>
-    <link>/tags/art/</link>
-    <description>Recent content in art on Spiderbite</description>
+    <title>collage on Spiderbite</title>
+    <link>/tags/collage/</link>
+    <description>Recent content in collage on Spiderbite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Fuck the police!</copyright>
     <lastBuildDate>Tue, 06 Oct 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/art/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/collage/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,15 +20,6 @@
       <guid>/post/off-world/</guid>
       <description>Bodhi
 Paper on panel, 8 x 10 in.</description>
-    </item>
-    
-    <item>
-      <title>Off-world</title>
-      <link>/post/markdown-syntax/</link>
-      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/markdown-syntax/</guid>
-      <description></description>
     </item>
     
   </channel>
