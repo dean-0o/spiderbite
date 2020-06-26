@@ -7,28 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Fuck the police!</copyright>
-    <lastBuildDate>Tue, 06 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/art/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bodhi</title>
-      <link>/post/off-world/</link>
-      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/off-world/</guid>
-      <description>Bodhi
-Paper on panel, 8 x 10 in.</description>
-    </item>
-    
-    <item>
-      <title>Off-world</title>
-      <link>/post/markdown-syntax/</link>
+      <link>/post/bodhi/</link>
       <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/markdown-syntax/</guid>
-      <description></description>
+      <guid>/post/bodhi/</guid>
+      <description>Paper on panel, 8 x 10 in.</description>
     </item>
     
   </channel>
