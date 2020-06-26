@@ -1,8 +1,8 @@
 ---
 title: Spectator
 author: Dean Mirabito
-description: by Dean Mirabito
-imagelink:
+description: I was, for so long, like the rescued
+imagelink: https://github.com/dean-0o/spiderbite/blob/master/static/post/2020-06-26-spectator.en_files/AfterlightImage.jpeg?raw=true
 date: '2020-06-25'
 slug: spectator
 categories: []
@@ -10,6 +10,8 @@ tags:
   - poetry
 ---
 
+## Spectator
+  
 I was, for so long,      
 like the rescued,     
 putting muscle    
@@ -19,9 +21,9 @@ listening, to the
 
 voice, the jerking seat  
 of the merciless  
-weather, once caught  
-like steel skin, now  
-hung like a fly strip,   
+weather, once wrapped  
+in steel skin, now  
+hung, like a fly strip,   
 flapping, out like  
 
 God, like some dirty  
@@ -36,4 +38,10 @@ the remains, always
 carrying, after the   
 many forgetting, and  
 the dead.  
+  
+<br>
+  
+___
+  
+Dean Mirabito is a writer and dilettante based in Boston. He is an editor at Spiderbite.
   

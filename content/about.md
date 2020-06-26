@@ -1,10 +1,6 @@
 ---
-aliases:
-- about-us
-- about-hugo
-- contact
 author: Dean Mirabito
-date: "2019-02-28"
+date: "0001-01-01"
 description:
 title: About
 ---
