@@ -1,8 +1,8 @@
 baseURL = "https://example.com"
-title = "Origin"
-author = "Andrey Parfenov"
-copyright = "© 2020, Andrey Parfenov"
-paginate = 4
+title = "Spiderbite"
+author = "Dean Mirabito"
+copyright = "Fuck the police!"
+paginate = 7
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
@@ -16,7 +16,7 @@ theme = "origin-hugo-theme"
 
   [params.socials]
     facebook = ""
-    twitter = ""
+    twitter = "https://twitter.com/Anthropodean"
     instagram = ""
     youtube = ""
     github = ""
