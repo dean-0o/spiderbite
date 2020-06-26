@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Spiderbite</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on Spiderbite</description>
+    <title>music on Spiderbite</title>
+    <link>/tags/music/</link>
+    <description>Recent content in music on Spiderbite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Fuck the police!</copyright>
-    <lastBuildDate>Wed, 10 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/music/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Bodhi</title>
-      <link>/post/bodhi/</link>
-      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/bodhi/</guid>
-      <description>Paper on panel, 8 x 10 in.</description>
-    </item>
     
     <item>
       <title>Toad Therapy</title>

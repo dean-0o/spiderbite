@@ -7,6 +7,5 @@ aliases:
 - docs
 author: Hugo Authors
 tags:
-- index
 title: Posts
 ---

@@ -33,20 +33,18 @@
   </url>
   
   <url>
+    <loc>/tags/music/</loc>
+    <lastmod>2019-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/toad-therapy/</loc>
+    <lastmod>2019-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/a/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/b/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/c/</loc>
   </url>
   
   <url>
@@ -54,15 +52,11 @@
   </url>
   
   <url>
-    <loc>/tags/index/</loc>
-  </url>
-  
-  <url>
     <loc>/series/</loc>
   </url>
   
   <url>
-    <loc>/web/</loc>
+    <loc>/submissions/</loc>
   </url>
   
 </urlset>

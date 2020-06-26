@@ -33,6 +33,12 @@ theme = "origin-hugo-theme"
     name = "About"
     url = "/about/"
     weight = 10
+    
+  [[menu.main]]
+    identifier = "contact"
+    name = "Submissions"
+    url = "/submissions/"
+    weight = 10
 
 [taxonomies]
   category = "categories"
