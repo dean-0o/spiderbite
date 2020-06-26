@@ -2,7 +2,7 @@
 title: Toad Therapy
 author: Dean Mirabito
 description: New EP from Disease Garden
-imagelink:
+imagelink: https://github.com/dean-0o/spiderbite/blob/master/static/post/2020-06-26-toad-therapy.en_files/a1050167454_16.jpg?raw=true
 date: '2019-12-21'
 slug: toad-therapy
 categories: []
